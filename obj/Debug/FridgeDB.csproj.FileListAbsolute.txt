@@ -1,0 +1,5 @@
+C:\Users\opilane\source\repos\LogitPe21\FridgeDB\obj\Debug\FridgeDB.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogitPe21\FridgeDB\obj\Debug\FridgeDB.Form1.resources
+C:\Users\opilane\source\repos\LogitPe21\FridgeDB\obj\Debug\FridgeDB.Properties.Resources.resources
+C:\Users\opilane\source\repos\LogitPe21\FridgeDB\obj\Debug\FridgeDB.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\LogitPe21\FridgeDB\obj\Debug\FridgeDB.csproj.CoreCompileInputs.cache
